@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="3438px" viewBox="0 0 1920 3438" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.2 (72643) - https://sketchapp.com -->
+    <title>5B74CE66-CB5B-40F3-A2DD-1A52492C0716@3x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="48.1665039%" y1="0%" x2="48.1665039%" y2="150%" id="linearGradient-1">
+            <stop stop-color="#343EA1" offset="0%"></stop>
+            <stop stop-color="#2EA5F1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#6AABEF" offset="0%"></stop>
+            <stop stop-color="#6198E1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="32.0326017%" y2="11.323366%" id="linearGradient-3">
+            <stop stop-color="#75C2FF" offset="0%"></stop>
+            <stop stop-color="#343EA1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="77.968967%" x2="27.574748%" y2="28.36509%" id="linearGradient-4">
+            <stop stop-color="#75C2FF" offset="0%"></stop>
+            <stop stop-color="#343EA1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ankro_about_us_1920x1080">
+            <g id="Bg" transform="translate(-1.000000, 0.000000)">
+                <rect fill="url(#linearGradient-1)" x="1" y="0" width="1920" height="1080"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-2)" x="0" y="1103" width="1921" height="2358"></rect>
+                <path d="M1,0 L1921,0 L1921,1092.8354 L707.641704,2121.08633 C681.221722,2143.47573 645.098415,2150.60193 612.154981,2139.9234 L1,1941.8191 L1,0 Z" id="Rectangle" fill="url(#linearGradient-3)"></path>
+                <path d="M1,2002 L1921,2002 L1921,2384.42156 L707.67506,3414.23774 C681.239134,3436.67538 645.06666,3443.81709 612.086844,3433.1102 L1,3234.721 L1,2002 Z" id="Rectangle" fill="url(#linearGradient-4)" transform="translate(961.000000, 2720.000000) scale(-1, -1) translate(-961.000000, -2720.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
